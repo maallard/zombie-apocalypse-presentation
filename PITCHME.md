@@ -26,7 +26,7 @@
 ```
 
 ---
-# Itération 1
+###### Itération 1
 `matrix`
 ```
 | 5 |*1*| 9 |
@@ -47,7 +47,7 @@
 ```
 
 +++
-# Itération 2
+###### Itération 2
 `matrix`
 ```
 |*5*| 1 | 9 |
@@ -68,7 +68,7 @@
 ```
 
 +++
-# Itération 3
+###### Itération 3
 `matrix`
 ```
 | 5 | 1 | 9 |
@@ -89,7 +89,7 @@
 ```
 
 +++
-# Itération 4
+###### Itération 4
 `matrix`
 ```
 | 5 | 1 | 9 |
@@ -110,7 +110,7 @@
 ```
 
 +++
-# Itération 5
+###### Itération 5
 `matrix`
 ```
 | 5 | 1 | 9 |
