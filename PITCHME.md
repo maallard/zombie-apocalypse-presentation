@@ -157,6 +157,6 @@
 
 #### Questions ?
 
-Liens:
+Liens :
 - https://www.codewars.com/kata/stop-the-zombie-apocalypse
 - solution kata par @increscent : https://www.codewars.com/kata/reviews/5464e33b24b6c23707000198/groups/55689b4e864bdf05d9000019
