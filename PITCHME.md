@@ -2,7 +2,7 @@
 
 # Stop the Zombie Apocalypse!
 
-#### Démonstration Kata
+#### Démonstration Kata Codewars
 
 
 ---
